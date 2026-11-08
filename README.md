@@ -1,4 +1,4 @@
-# バンガイオー魂 NDS 한국어 패치 v1.0
+# バンガイオー魂 NDS 한국어 패치 v1.0.1
 
 배포일: 2026-11-08\
 대상: Bangai-O Spirits 일본판 — AY6J, revision 0
@@ -15,7 +15,7 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| BangaiO-Spirits-KO-v1.0.nds | 16,777,216 | a1bb6ec68d3b7c30d77b09cac39b7935c594376a7e67d740a4ab1116e6c7324e |
+| BangaiO-Spirits-KO-v1.0.1.nds | 16,777,216 | 0ca48d4cd67a0ab254954ea8148de2a8c7db4acd3922981c23bc381a00a2df54 |
 
 늘어난 그림과 한글 글꼴을 ROM 뒤쪽에 덧붙여서 결과는 원본의 두 배 크기입니다.
 
@@ -23,7 +23,5 @@
 
 | 파일 | 크기(바이트) | SHA-256 |
 |---|---|---|
-| BangaiO-Spirits-KO-v1.0.zip | 1,824,982 | bda1c35f7f103a85a9f3e0839feebdf1a4fa374f88baacc6625032af7dd619e3 |
-| BangaiO-Spirits-KO-v1.0.bps | 3,223,959 | 2ae417b142b1097294baeabc057b69ab1f6288e822e860ff897e22d3385ab214 |
-
-ZIP에는 BPS 패치, 적용 스크립트(apply_patch.py, bps.py), 설명서(README.txt), manifest.json, 글꼴 라이선스(GALMURI_OFL.txt, NANUM_OFL.txt)가 들어 있습니다. 내려받은 파일은 SHA256SUMS.txt로 확인할 수 있습니다.
+| BangaiO-Spirits-KO-v1.0.1.zip | 1,829,272 | f4c0b51fa189d989a2adff8183421fe0a8353ce563a9266b3a7dd82629b08360 |
+| BangaiO-Spirits-KO-v1.0.1.bps | 3,223,975 | fbd10339c2d0b93a13cea3f2ec29bd74789931e62f0ac27f300ded2ffd341e5f |
